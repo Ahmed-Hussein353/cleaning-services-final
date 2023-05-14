@@ -19,7 +19,7 @@
 
     </properties>
 	
-<!--     <dependencies>
+     <dependencies>
         <dependency>
             <groupId>com.sun.mail</groupId>
             <artifactId>javax.mail</artifactId>
@@ -88,6 +88,6 @@
                 </plugin>
             </plugins>
         </pluginManagement> -->
-<!--     </build> -->
+    </build> 
 </project>
 
