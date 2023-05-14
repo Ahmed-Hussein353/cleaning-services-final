@@ -18,8 +18,13 @@
 
 
     </properties>
+<<<<<<< HEAD
 
     <dependencies>
+=======
+	
+     <dependencies>
+>>>>>>> d20dff03e6d0dddaa4afd567599daa6a57f0ea6e
         <dependency>
             <groupId>com.sun.mail</groupId>
             <artifactId>javax.mail</artifactId>
@@ -88,5 +93,9 @@
                 </plugin>
             </plugins>
         </pluginManagement> -->
+<<<<<<< HEAD
     </build>
+=======
+    </build> 
+>>>>>>> d20dff03e6d0dddaa4afd567599daa6a57f0ea6e
 </project>
