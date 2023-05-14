@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="209daf62-714a-403c-ae7f-dee4fbe5f6c9" name="Changes" comment="sonar" />
+    <list default="true" id="209daf62-714a-403c-ae7f-dee4fbe5f6c9" name="Changes" comment="sonar">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/test-classes/app/AddOrdertest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/test-classes/app/EditOrdertest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/test-classes/app/Invoicetest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/test-classes/app/Reporttest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/test-classes/app/Servicestest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/test-classes/app/SignIntest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/test-classes/app/SignOuttest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/test-classes/app/Tester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/test-classes/app/Visittest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/test-classes/app/deleteOrdertest.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -366,7 +378,7 @@
       <workItem from="1683816911122" duration="13472000" />
       <workItem from="1683906251084" duration="4589000" />
       <workItem from="1684006155525" duration="9251000" />
-      <workItem from="1684075029989" duration="2727000" />
+      <workItem from="1684075029989" duration="4238000" />
     </task>
     <task id="LOCAL؜-٠٠٠٠١" summary="test">
       <created>1677948720062</created>
