@@ -20,7 +20,7 @@
     </properties>
 
 
-<!--     <dependencies>
+     <dependencies>
         <dependency>
             <groupId>com.sun.mail</groupId>
             <artifactId>javax.mail</artifactId>
@@ -88,7 +88,7 @@
                     </executions>
                 </plugin>
             </plugins>
-        </pluginManagement> -->
-<!--     </build> -->
+        </pluginManagement>
+     </build>
 </project>
 
